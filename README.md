@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning about machine learning, design of experiments, robotics and electronics applied to prosthesis.
 - 💞️ I’m looking to collaborate on open source projects related to electronics, mechatronics, robotics, machine learning and optimization problems.
 
+To see the my most relevant repositories in an aesthetic estructured way don't hesitate to visit my github web page at https://dandrue.github.io
+
 <!---
 dandrue/dandrue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
